@@ -34,7 +34,7 @@
 
 	--opacity: .85; /* Opacity of overall app. | Default: .85 */
 
-	--font: 'Ubuntu'; /* Custom font | Default: 'Inter' */
+	--font: 'Gasoek One'; /* Custom font | Default: 'Inter' */
 
 	--avatar-roundness: 50%; /* Roundness for avatars. | 0% = Square, 50% = Circle | Default: 50% */
 	--server-roundness: 50%; /* Roundness for servers. | 0% = Square, 50% = Circle | Default: 50% */
